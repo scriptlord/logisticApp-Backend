@@ -1,0 +1,94 @@
+[
+    {
+        "id": "9d5976d9-37b9-46f0-b8cb-297dfb2e8470",
+        "username": "Foluso Kayode",
+        "userEmail": "seww6666@gmail.com",
+        "userPhone": "08076518353",
+        "userAddress": "James Robertson",
+        "userPassword1": "$2b$10$RBlMAAjjlcYefF2qgdmw6uP.f0anGhWSMzqdKxf9oGJO.InALsnB2",
+        "idType": "20"
+    },
+    {
+        "id": "ea172b99-f7d7-43da-83c7-0536647e35a8",
+        "username": "Foluso Kayode",
+        "userEmail": "test@gmail.com",
+        "userPhone": "08076518353",
+        "userAddress": "12, Olusoji Idowu Street, Off Association Avenue, Obanikoro, Lagos",
+        "userPassword1": "$2b$10$3RcJ3OZvebDQU9WB7pk.0eek0NFUkft..5vROfG4Wc5h8TaQdmqDG",
+        "idType": "20"
+    },
+    {
+        "id": "f96c398b-de5d-477e-8439-f9119ae1eadc",
+        "username": "Foluso Kayode",
+        "userEmail": "foluso222@gmail.com",
+        "userPhone": "08076518353",
+        "userAddress": "12, Olusoji Idowu Street, Off Association Avenue, Obanikoro, Lagos",
+        "userPassword1": "$2b$10$dogxIL4ZAXvK4GZotgyxo.ntwKZH/9My.uvM4fC4RbP/cx35Nxd6u",
+        "idType": "20"
+    },
+    {
+        "id": "2e814553-cbe7-4777-8946-cc8d18288bfb",
+        "username": "Foluso Kayode",
+        "userEmail": "foluso.kayode1.ng@gmail.com",
+        "userPhone": "08076518353",
+        "userAddress": "12, Olusoji Idowu Street, Off Association Avenue, Obanikoro, Lagos",
+        "userPassword1": "$2b$10$HanKEEy0ZgUdwokwaPYD0eMzVoFG9eLeFpPTf30jKDWl8PqGi7s26",
+        "idType": "20"
+    },
+    {
+        "id": "dd19ad34-0201-4ed1-8c3d-5b30f1592325",
+        "username": "Foluso Kayode",
+        "userEmail": "david@yahoo.com",
+        "userPhone": "08076518354",
+        "userAddress": "Robert Johnson",
+        "userPassword1": "$2b$10$qSvKrus6wtXCSCNIIgCnPeibsZloftTL00Fk4Rcb19CB/mK3hUvo."
+    },
+    {
+        "id": "a297c47e-9f1d-4df6-b3a1-a72220102058",
+        "username": "Victor Akpan",
+        "userEmail": "victorakpan@gmail.com",
+        "userPhone": "08076518352",
+        "userAddress": "Robert Thomas",
+        "userPassword1": "$2b$10$Vr9GsvO1dw.RSQMhV4/H6uI/MFSSWc1F6QsXiCBPQRkQreFqayi3u"
+    },
+    {
+        "id": "250095d5-1012-4988-81db-c371dc29166d",
+        "username": "Bad Man",
+        "userEmail": "soaresdolapo@gmail.com",
+        "userPhone": "08088644250",
+        "userAddress": "Decagon",
+        "userPassword1": "$2b$10$cbRT0AD8XbdOywDaK6.v/ulrsu/pWrishm/U9VAAjns2Dw1hVgwIm"
+    },
+    {
+        "id": "6568c2a2-ee52-43cd-865e-009a1f1519bf",
+        "username": "Foluso Kayode",
+        "userEmail": "test@example.com",
+        "userPhone": "08076518357",
+        "userAddress": "James Robertson",
+        "userPassword1": "$2b$10$uUuwfoahaj3bn5j1MW1sMOo7Z/dH9G.eFUoXfj1bK2HhPovHC5EaS"
+    },
+    {
+        "id": "f2808065-1c9b-417e-9206-08030ccdc217",
+        "username": "david brown",
+        "userEmail": "david@gmail.com",
+        "userPhone": "08076518353",
+        "userAddress": "Robertson David",
+        "userPassword1": "$2b$10$TzTUALbko7hbCf3HoUg7y.Lj69NaAvBfqJWzgIhUrXLRtBNZN3Fda"
+    },
+    {
+        "id": "2f72e869-5ac4-443f-9c2d-e127b81dc785",
+        "username": "fola abraham",
+        "userEmail": "fola@gmail.com",
+        "userPhone": "08076518353",
+        "userAddress": "Olusoji Idowu Street",
+        "userPassword1": "$2b$10$g8LRqiE.jVxU2TPyw2B/5unyE.E6klJMHCZU9xaSPDzV1BHeqqzjS"
+    },
+    {
+        "id": "c1de3125-426c-4170-ae69-7440219943ca",
+        "username": "John Brown",
+        "userEmail": "john@gmail.com",
+        "userPhone": "08076518353",
+        "userAddress": "Asajon Way",
+        "userPassword1": "$2b$10$qWKjDT3Wk1sVdsJxgcz8tuGmvzOO0N7SxkadmiArK8GBsjuBJAMiq"
+    }
+]
